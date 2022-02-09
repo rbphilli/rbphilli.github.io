@@ -1,0 +1,32 @@
+*{
+    background-color: lightgray;
+    font-family: 'Courier New', Courier, monospace;
+}
+#lgbg{
+    text-align: center;
+}
+#description{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
+table, td{
+    align: center;
+    border: 2px solid;
+}
+table{
+    margin: auto;
+}
+
+#tableHeader{
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+
+#rowOne{
+    background-color: khaki;
+    opacity: 0.8;
+}
